@@ -8,5 +8,9 @@ HOSPITAL EMERGENCY ROOM DASHBOARD
 https://public.tableau.com/app/profile/praharsha.mallampalli/viz/EmergencyRoomDashboard_17308428188660/Dashboard1
 
 
+GLOBAL SANITATION SNAPSHOT
+https://public.tableau.com/app/profile/praharsha.mallampalli/viz/GlobalSanitationSnapshot/Dashboard1
+
+
 COVID GLOBAL DATA ANALYSIS
 https://public.tableau.com/app/profile/praharsha.mallampalli/viz/CovidDashboardWorkbook/Dashboard1?publish=yes
