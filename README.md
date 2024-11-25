@@ -1,14 +1,13 @@
-#Welcome to world of Data Visualizations
-Disclaimer - This repository is currently under maintenance, a lot of them are incompatible with this platform. Apologies, will be back soon! 
-
-Here you will find paths to my personal dashboards where you will have the ability to interact and play with the data. 
+MyVisualizations - 
 
 
 HOSPITAL EMERGENCY ROOM DASHBOARD 
+Overview - An Interactive Hospital Emergency Room Dashboard to visualize key metrics such as Average patient wait times, Patient Satisfaction scores, and Patient demographics
 https://public.tableau.com/app/profile/praharsha.mallampalli/viz/EmergencyRoomDashboard_17308428188660/Dashboard1
 
 
 GLOBAL SANITATION SNAPSHOT
+Overview - An Interactive Global Sanitation Dashboard showcasing the percentage of populations using basic sanitation services across countries. 
 https://public.tableau.com/app/profile/praharsha.mallampalli/viz/GlobalSanitationSnapshot/Dashboard1
 
 
